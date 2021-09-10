@@ -1,0 +1,4 @@
+git branch -m main octo
+git fetch origin
+git branch -u origin/octo octo
+git remote set-head origin -a
